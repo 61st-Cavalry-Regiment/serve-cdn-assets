@@ -1,0 +1,7 @@
+name = "serve-cdn-assets"
+type = "javascript"
+
+account_id = "1e86071e1e5ae286f4b6393c84d8b540"
+workers_dev = true
+route = ""
+zone_id = "8579c0b71f9db35e2b5e38712b1b17a4"
